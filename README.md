@@ -45,7 +45,4 @@
 
 ---
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Asceptic07/MindSarthi.git
-cd MindSarthi
+
